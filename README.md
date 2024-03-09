@@ -1,5 +1,5 @@
 # ProefficiencyTest (REACT)
-Bu projem, kullanıcıların çeşitli yeterlilik testlerine girebilecekleri ve sonuçlarını görebilecekleri bir web sitesini içermektedir. Kullanıcılar, giriş yaparak belirli konu başlıklarına ve testlere erişebilirler. Ayrıca, tamamladıkları testlerin sonuçlarını inceleyebilir ve tekrar çözmek isterlerse cevaplarını silip yeniden çözebilirler.
+Projem, kullanıcıların çeşitli yeterlilik testlerine girebilecekleri ve sonuçlarını görebilecekleri bir web sitesini içermektedir. Kullanıcılar, giriş yaparak belirli konu başlıklarına ve testlere erişebilirler. Ayrıca, tamamladıkları testlerin sonuçlarını inceleyebilir ve tekrar çözmek isterlerse cevaplarını silip yeniden çözebilirler.
 Bu projede, kullanıcı girdilerinin kontrol edilmesi ve giriş işleminin sağlanması için Formik yapısını kullanmaktayım. Ayrıca, projede güvenliği simüle etme amacıyla PrivateRoute mantığını uyguluyorum. React dilini ve Material UI kütüphanesini kullanarak projeyi geliştirdim.
 
 ## Özellikler
