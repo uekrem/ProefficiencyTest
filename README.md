@@ -9,3 +9,4 @@ Bu projede, kullanıcı girdilerinin kontrol edilmesi ve giriş işleminin sağl
 - Testler tamamlandığında, kullanıcılara doğru ve yanlış cevaplarını gösterir.
 - Kullanıcılar, tamamladıkları testlerin sonuçlarını inceleyebilir.
 - Kullanıcılar, testleri tekrar çözmek istediklerinde önceki cevaplarını silip yeni cevaplarını girebilirler.
+- Projede çözülmüş , çözülmemiş veya incelenmemiş testleri kullanıcılar için daha açıklayıcı hale getirmek amacıyla farklı sembollerle belirtmekteyim. Daha kullanıcı dostu bir proje olmasını yakalamaya çalışmaktayım
