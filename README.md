@@ -4,7 +4,7 @@ Bu projede, kullanıcı girdilerinin kontrol edilmesi ve giriş işleminin sağl
 
 ## Özellikler
 - Kullanıcıların giriş yapması gerekmektedir ve giriş yapmadan hiçbir sayfaya erişemezler.
-- Kullanıcılar, belirli konu başlıklarına ve testlere erişebilir.
+- Kullanıcılar, belirli konu başlıklarına ve testlere erişebilir.  
   <img width="500" alt="home" src="https://github.com/uekrem/ProefficiencyTest/assets/110349452/b18a2ccf-2c4a-415b-bf60-a1fd8c95ba6a">  
 - Bir testi çözerken, kullanıcılar diğer testlere erişemeyecektir.
 - Testler tamamlandığında, kullanıcılara doğru ve yanlış cevaplarını gösterir.
