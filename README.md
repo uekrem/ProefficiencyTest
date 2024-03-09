@@ -12,7 +12,7 @@ Bu projede, kullanıcı girdilerinin kontrol edilmesi ve giriş işleminin sağl
 - Bir testi çözerken, kullanıcılar diğer testlere erişemeyecektir.  
   <img width="500" alt="stay" src="https://github.com/uekrem/ProefficiencyTest/assets/110349452/7c5c1b44-24fb-4be2-99a5-486f37ae67c7">
 - Testler tamamlandığında, kullanıcılara doğru ve yanlış cevaplarını gösterir.  
-  <img width="500" alt="TorF" src="https://github.com/uekrem/ProefficiencyTest/assets/110349452/f7c841cf-0d55-470e-a70b-6a3004f3cb6d">
+  <img width="500" alt="trueFalse" src="https://github.com/uekrem/ProefficiencyTest/assets/110349452/f7c841cf-0d55-470e-a70b-6a3004f3cb6d">
 - Kullanıcılar, tamamladıkları testlerin sonuçlarını inceleyebilir.  
   <img width="500" alt="check" src="https://github.com/uekrem/ProefficiencyTest/assets/110349452/b21cead9-1b9f-4f5f-875c-52da8595bddf">
 - Kullanıcılar, testleri tekrar çözmek istediklerinde önceki cevaplarını silip yeni cevaplarını girebilirler.
